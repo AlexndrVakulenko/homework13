@@ -5,6 +5,6 @@
 
 https://github.com/Nickmob/vagrant_selinux
 
-https://github.com/Nickmob/vagrant_selinux_dns_problems (vagrantfile данного репозитория был изменен: для установки ПО в каждой VM добалено по дополнительному bridge сетевому интерфейсу)
+https://github.com/Nickmob/vagrant_selinux_dns_problems (vagrantfile данного репозитория был изменен: для установки ПО в каждой VM добавлено по дополнительному bridge сетевому интерфейсу)
 
 ДЗ со скриншотами в файле ДЗ_Практика c SELinux.pdf
